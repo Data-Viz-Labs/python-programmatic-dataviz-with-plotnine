@@ -1,0 +1,4 @@
+# Dependencias de los notebooks (referencia para Dependabot y para ejecutarlos fuera de Colab).
+plotnine==0.14.5
+numpy==2.5.4
+pandas==3.0.6
